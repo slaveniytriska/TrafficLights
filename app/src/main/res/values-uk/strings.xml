@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Світлофор</string>
+    <string name="buttonGreen">Зелений</string>
+    <string name="buttonRed">Червоний</string>
+    <string name="buttonYellow">Жовтий</string>
+</resources>
